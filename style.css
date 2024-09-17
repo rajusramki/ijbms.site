@@ -2474,16 +2474,15 @@ p{
 
 /* Ensure button is responsive */
 .btn-wrapper {
-    margin-top: 20px;
+    margin-top: 10px;
     align-items: center;
-    font-size: 20px;
     text-align: center;
     display: inline-block;
 }
 
 .btn-primary {
     padding: 10px 20px;
-    font-size: 20px;
+    font-size: 1em;
 }
 
 
