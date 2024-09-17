@@ -2474,8 +2474,10 @@ p{
 
 /* Ensure button is responsive */
 .btn-wrapper {
-    text-align: left;
-    margin-top: 20px;
+    text-align: center;
+    margin-top: 10px;
+    display: inline-block;
+    align-items: center;
 }
 
 .btn-primary {
