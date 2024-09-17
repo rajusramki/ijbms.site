@@ -2478,6 +2478,7 @@ p{
     align-items: center;
     font-size: 20px;
     text-align: center;
+    display: inline-block;
 }
 
 .btn-primary {
