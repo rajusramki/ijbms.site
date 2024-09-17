@@ -2483,6 +2483,21 @@ p{
     font-size: 1em;
 }
 
+@media (max-width: 767px){
+    /* Ensure button is responsive */
+    .btn-wrapper {
+        align-items: center;
+        text-align: center;
+        margin-top: 10px;
+        display: inline-block;
+    }
+
+    .btn-primary {
+        padding: 10px 20px;
+        font-size: 1em;
+    }
+}
+
 
 /* Mobile Styles */
 @media (max-width: 768px) {
