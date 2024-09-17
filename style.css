@@ -2474,10 +2474,8 @@ p{
 
 /* Ensure button is responsive */
 .btn-wrapper {
-    margin-top: 10px;
-    align-items: center;
-    text-align: center;
-    display: inline-block;
+    text-align: left;
+    margin-top: 20px;
 }
 
 .btn-primary {
